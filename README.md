@@ -31,7 +31,7 @@ A LMS[^1] plugin that provides alternative play counts and skip counts to reflec
 
 ### 🔵 Custom Skip
 A LMS[^1] plugin that lets you define client-specific filter sets with rules for when tracks should be skipped.<br><br>
-➔ [**CS Repository**](https://https://github.com/AF-1/lms-customskip)
+➔ [**CS Repository**](https://github.com/AF-1/lms-customskip)
 <br><br><br>
 
 
