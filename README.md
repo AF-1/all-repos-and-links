@@ -43,7 +43,7 @@ A LMS[^1] plugin that lets you define client-specific filter sets with rules for
 
 ### 🚫 Use Comments Tag Info
 A LMS[^1] plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br>
-Please *SQLite Virtual Libraries* instead.
+Please use *SQLite Virtual Libraries* instead. UCTI will be discontinued soon.
 <br><br>
 ➔ [**UCTI Repository**](https://github.com/AF-1/lms-usecommenttaginfo)
 <br><br><br>
