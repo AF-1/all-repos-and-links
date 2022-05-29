@@ -29,23 +29,22 @@ A LMS[^1] plugin that provides alternative play counts and skip counts to reflec
 <br><br><br>
 
 
-### 🔵 Custom Skip
-A LMS[^1] plugin that lets you define client-specific filter sets with rules for when tracks should be skipped.<br><br>
-➔ [**CS Repository**](https://github.com/AF-1/lms-customskip)
-<br><br><br>
-
-
-### 🔵 Use Comments Tag Info
-A LMS[^1] plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br><br>
-➔ [**UCTI Repository**](https://github.com/AF-1/lms-usecommenttaginfo)
-<br><br><br>
-
-
 ### 🔵 SQLite Virtual Libraries
 A plugin for Logitech Media Server that allows you to use custom SQLite definitions to create virtual libraries with optional browse menus.<br><br>
 ➔ [**SQVL Repository**](https://github.com/AF-1/lms-sqlitevirtuallibraries)
 <br><br><br>
 
+
+### 🔵 Custom Skip
+A LMS[^1] plugin that lets you define client-specific filter sets with rules for when tracks should be skipped automatically.<br><br>
+➔ [**CS Repository**](https://github.com/AF-1/lms-customskip)
+<br><br><br>
+
+
+### ✝ Use Comments Tag Info
+A LMS[^1] plugin that uses (key)words in your music files' comments tags to display extra information & custom title formats and create virtual libraries with browse menus.<br><br>
+➔ [**UCTI Repository**](https://github.com/AF-1/lms-usecommenttaginfo)
+<br><br><br>
 
 
 
