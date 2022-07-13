@@ -28,6 +28,10 @@ A LMS[^1] plugin that provides alternative play counts and skip counts to reflec
 ➔ [**APC Repository**](https://github.com/AF-1/lms-alternativeplaycount)
 <br><br><br>
 
+### 🔵 Custom Start Stop Times
+A LMS[^1] plugin that allows you to start and stop tracks at a specified playback/song time..<br><br>
+➔ [**CSST Repository**](https://github.com/AF-1/lms-customstartstoptimes)
+<br><br><br>
 
 ### 🔵 SQLite Virtual Libraries
 A plugin for Logitech Media Server that allows you to use custom SQLite definitions to create virtual libraries with optional browse menus.<br><br>
